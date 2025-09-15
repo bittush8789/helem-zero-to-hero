@@ -1,2 +1,3 @@
 # helm-zero-to-hero
-Learn Helm from basics
+Learn Helm from basics.
+  
