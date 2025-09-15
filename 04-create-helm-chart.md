@@ -8,7 +8,7 @@ As a DevOps engineer at an e-commerce company, you manage two services: Payments
 
 ### Prerequisites
 
-* Helm installed on your system.
+* Helm installed on your system.  
 * A running Kubernetes cluster.
 * GitHub account for hosting the Helm repo.
 * kubectl configured to interact with the cluster.
