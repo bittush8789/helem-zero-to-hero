@@ -1,4 +1,4 @@
-# Managing NGINX with Helm
+# Managing NGINX with Helm    
 
 ## Prerequisites
 
